@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 Performing analysis on stocks to uncover trends
 
 # VBA of Wallstreet 
